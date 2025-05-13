@@ -12,8 +12,9 @@ public class NullPointerExceptionExample {
             //added dummy lines
 
         }catch (NullPointerException e){
-            System.out.println("Exception occurred : "+e.getMessage());
             //added dummy lines
+
+            System.out.println("Exception occurred : "+e.getMessage());
 
         }
 
