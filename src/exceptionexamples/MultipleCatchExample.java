@@ -8,14 +8,14 @@ public class MultipleCatchExample {
             System.out.println("inside the try block before exception occurs");
             res=a/b;
 
-            int arr[] = {10, 3, 2, 23, 66};
+            //added dummy lines
 
+            int arr[] = {10, 3, 2, 23, 66};
             System.out.println("length of the array :" + arr.length);
             System.out.println("1st index of the array : " + arr[1]);
             System.out.println("3rd index of the array : " + arr[3]);
             System.out.println("7th index of the array : " + arr[4]);
             System.out.println("inside the try block after exception occurs");
-
             String msg1 = "Hi hello";
             String msg2 = null;
 

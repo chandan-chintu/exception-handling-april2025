@@ -7,8 +7,8 @@ public class GenericCatchExample {
             // monitor code
             System.out.println("inside the try block before exception occurs");
             res=a/b;
-
             int arr[] = {10, 3, 2, 23, 66};
+            //added dummy lines
 
             System.out.println("length of the array :" + arr.length);
             System.out.println("1st index of the array : " + arr[1]);
