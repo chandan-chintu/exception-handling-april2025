@@ -9,8 +9,13 @@ public class NullPointerExceptionExample {
             System.out.println("length of msg2 is : " + msg2.length());
             //added dummy lines
 
+            //added dummy lines
+
         }catch (NullPointerException e){
+            //added dummy lines
+
             System.out.println("Exception occurred : "+e.getMessage());
+
         }
 
     }
